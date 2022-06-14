@@ -1,3 +1,0 @@
-/home/tdsdk/sdk_test/Payload-SDK/samples/sample_c/platform/linux/manifold2/build/CMakeFiles/edit_cache.dir
-/home/tdsdk/sdk_test/Payload-SDK/samples/sample_c/platform/linux/manifold2/build/CMakeFiles/dji_sdk_demo_linux.dir
-/home/tdsdk/sdk_test/Payload-SDK/samples/sample_c/platform/linux/manifold2/build/CMakeFiles/rebuild_cache.dir
