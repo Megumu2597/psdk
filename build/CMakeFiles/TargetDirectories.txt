@@ -1,0 +1,14 @@
+/home/tdsdk/sdk_test/Payload-SDK/build/CMakeFiles/install.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/CMakeFiles/list_install_components.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/CMakeFiles/rebuild_cache.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/CMakeFiles/entry.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/CMakeFiles/install/local.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/CMakeFiles/install/strip.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/CMakeFiles/edit_cache.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/samples/sample_c/platform/linux/manifold2/CMakeFiles/rebuild_cache.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/samples/sample_c/platform/linux/manifold2/CMakeFiles/install.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/samples/sample_c/platform/linux/manifold2/CMakeFiles/list_install_components.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/samples/sample_c/platform/linux/manifold2/CMakeFiles/dji_sdk_demo_linux.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/samples/sample_c/platform/linux/manifold2/CMakeFiles/install/local.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/samples/sample_c/platform/linux/manifold2/CMakeFiles/install/strip.dir
+/home/tdsdk/sdk_test/Payload-SDK/build/samples/sample_c/platform/linux/manifold2/CMakeFiles/edit_cache.dir

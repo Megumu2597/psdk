@@ -35,11 +35,11 @@ extern "C" {
 /* Exported constants --------------------------------------------------------*/
 // ATTENTION: User must goto https://developer.dji.com/user/apps/#all to create your own dji sdk application, get dji sdk application
 // information then fill in the application information here.
-#define USER_APP_NAME               "your_app_name"
-#define USER_APP_ID                 "your_app_id"
-#define USER_APP_KEY                "your_app_key"
-#define USER_APP_LICENSE            "your_app_license"
-#define USER_DEVELOPER_ACCOUNT      "your_developer_account"
+#define USER_APP_NAME               "psdktest"
+#define USER_APP_ID                 "118465"
+#define USER_APP_KEY                "a51b053d951ca175bed73f0ab2b50f6"
+#define USER_APP_LICENSE            "1ECgsVcNDSiKRxUY5GBNv3Wx642q1UvpYhW38qD0Mac+gntwgBBtD9SZRBH5AtxJPGC8Yxo1WRpEkYo9tFlB4akWZfKOhFnQrhczH0qtixC2rDPFeu211OIbDouT5H/iW56NIBCIojT3FuhHzFsSIsA3IeVLAXG3Ifm3OQ+qBRprAC+qiAPB1wNxMHdDgPrNpLx/uiOqN87UlA4ga/UEDyA2rwfYX4znHOPf3UBbx6FyA1+b+UzGhvGW1UScjAzGduhWjfPxc/GcATRQPXcsFWwgkHw/h/B2tlpnTBeUbH/JU3K9DLUWcsAabQt8lHJpKx2skLlCw1p5mPeGu6ZdMA=="
+#define USER_DEVELOPER_ACCOUNT      "megumu.tsukamoto"
 #define USER_BAUD_RATE              "460800"
 
 /* Exported types ------------------------------------------------------------*/
